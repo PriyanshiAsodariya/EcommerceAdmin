@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751446345200",
+    "project_id": "admineco-dbb1b",
+    "storage_bucket": "admineco-dbb1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751446345200:android:a4ae6b2976a77710b54935",
+        "android_client_info": {
+          "package_name": "com.ecommerceadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Lft2t3cu2OGfgQc3c9gVhSaK6TrkqqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
